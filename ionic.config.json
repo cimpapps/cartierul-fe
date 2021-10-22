@@ -1,0 +1,7 @@
+{
+  "name": "cartierul-fe",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
